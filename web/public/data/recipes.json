@@ -1,0 +1,102 @@
+[
+  {
+    "id": "albondigas",
+    "title": "Albóndigas Caseras",
+    "category": "Salado",
+    "type": "image",
+    "url": "./recetas/albondigas.jpg",
+    "thumbnail": "./recetas/albondigas.jpg",
+    "description": "Receta ilustrada paso a paso para preparar albóndigas caseras en salsa.",
+    "ingredients": ["pulpa de tomate", "aceite", "sal", "harina"]
+  },
+  {
+    "id": "burritos-de-atun",
+    "title": "Burritos de Atún",
+    "category": "Salado",
+    "type": "image",
+    "url": "./recetas/burritos-de-atun.jpg",
+    "thumbnail": "./recetas/burritos-de-atun.jpg",
+    "description": "Receta práctica y rápida de burritos rellenos con atún.",
+    "ingredients": ["atun", "mayonesa", "aceite", "sal"]
+  },
+  {
+    "id": "churros-caseros",
+    "title": "Churros Caseros — Receta Fácil",
+    "category": "Dulce",
+    "type": "pdf",
+    "url": "./recetas/churros-caseros.pdf",
+    "thumbnail": "",
+    "description": "Paso a paso para hacer churros caseros crocantes con ingredientes de almacén.",
+    "ingredients": ["harina", "azucar", "aceite", "sal", "dulce de leche"]
+  },
+  {
+    "id": "masa-para-tacos",
+    "title": "Masa para Tacos (CUKit!)",
+    "category": "Masas",
+    "type": "pdf",
+    "url": "./recetas/masa-para-tacos.pdf",
+    "thumbnail": "",
+    "description": "Cómo preparar tortillas caseras suaves para tacos y burritos.",
+    "ingredients": ["harina", "aceite", "sal"]
+  },
+  {
+    "id": "masa-ravioles-empanadas",
+    "title": "Masa Sencilla para Ravioles y Empanadas",
+    "category": "Masas",
+    "type": "pdf",
+    "url": "./recetas/masa-ravioles-empanadas.pdf",
+    "thumbnail": "",
+    "description": "Masa base rendidora para pastas rellenas y empanadas caseras.",
+    "ingredients": ["harina", "aceite", "sal"]
+  },
+  {
+    "id": "lehmeyun-de-carne",
+    "title": "Lehmeyun de Carne (Tastemade)",
+    "category": "Salado",
+    "type": "pdf",
+    "url": "./recetas/lehmeyun-de-carne.pdf",
+    "thumbnail": "",
+    "description": "Receta tradicional de lehmeyun de carne al horno con masa casera.",
+    "ingredients": ["harina", "pulpa de tomate", "aceite", "sal"]
+  },
+  {
+    "id": "omelette-jamon-queso",
+    "title": "Omelette de Jamón y Queso",
+    "category": "Salado",
+    "type": "pdf",
+    "url": "./recetas/omelette-jamon-queso.pdf",
+    "thumbnail": "",
+    "description": "Receta rápida de omelette esponjoso ideal para almuerzo o cena.",
+    "ingredients": ["aceite", "sal"]
+  },
+  {
+    "id": "bocadillos-sin-gluten",
+    "title": "Bocadillos Sin Gluten",
+    "category": "Sin Gluten",
+    "type": "pdf",
+    "url": "./recetas/bocadillos-sin-gluten.pdf",
+    "thumbnail": "",
+    "description": "Recetario de bocadillos y preparaciones libres de gluten.",
+    "ingredients": ["arroz", "polenta", "aceite", "sal"]
+  },
+  {
+    "id": "500-recetas-sin-gluten",
+    "title": "Las 500 Recetas Sin Gluten (Libro)",
+    "category": "Sin Gluten",
+    "type": "drive",
+    "url": "https://drive.google.com/file/d/109qC5pikplrB8gCavcV_YVSaNABAWgw8/view",
+    "thumbnail": "",
+    "description": "Libro completo con 500 recetas sin TACC disponible desde Google Drive.",
+    "ingredients": ["arroz", "polenta", "azucar"]
+  },
+  {
+    "id": "libro-recetas-otros",
+    "title": "Libro de Recetas — Otros",
+    "category": "Libros",
+    "type": "drive",
+    "url": "https://drive.google.com/file/d/1BPP9yOFdszKRJauy9iFRmU0QJONHTDTo/view",
+    "thumbnail": "",
+    "description": "Recetario completo variado alojado en Google Drive.",
+    "ingredients": ["harina", "azucar", "dulce de leche"]
+  }
+]

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node / Web
+node_modules/
+web/dist/
+web/.vite/
+
+# Database & local data (optional: keep sample or ignore local db)
+data/*.db
+data/*.db-journal
+
+# Env & IDE
+.env
+.firebase/
+.vscode/
+.idea/
+.DS_Store
