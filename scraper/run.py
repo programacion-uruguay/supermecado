@@ -97,6 +97,45 @@ RUBROS: dict[str, list[str]] = {
         "pasta dental",
         "jabon de tocador",
     ],
+    "Congelados": [
+        "hamburguesa",
+        "papas fritas",
+        "nuggets",
+        "pizza congelada",
+        "empanadas",
+        "helado",
+        "verduras congeladas",
+        "milanesa",
+    ],
+    "Carnicería y Pollería": [
+        "carne picada",
+        "asado",
+        "pollo",
+        "chorizo",
+        "pulpa",
+    ],
+    "Fiambrería y Embutidos": [
+        "jamon",
+        "paleta",
+        "salame",
+        "mortadela",
+        "frankfurters",
+        "muzzarella",
+    ],
+    "Frutas y Verduras": [
+        "papa",
+        "cebolla",
+        "tomate",
+        "zanahoria",
+        "manzana",
+        "banana",
+    ],
+    "Panadería": [
+        "pan lactal",
+        "pan flauta",
+        "pan rallado",
+        "bizcochos",
+    ],
 }
 
 QUERY_TO_RUBRO: dict[str, str] = {
