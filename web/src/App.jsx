@@ -10,6 +10,12 @@ const SUPERMARKET_COLORS = {
   el_dorado: '#ca8a04',
   el_clon: '#7c3aed',
   redmarket5: '#b91c1c',
+  '5oceanos': '#0369a1',
+  artico: '#0891b2',
+  congelados_uy: '#2563eb',
+  marmatu: '#0d9488',
+  portisur: '#4f46e5',
+  glacial: '#0284c7',
 }
 
 const QUICK_SEARCHES = ['Aceite', 'Yerba', 'Leche', 'Arroz', 'Fideos']

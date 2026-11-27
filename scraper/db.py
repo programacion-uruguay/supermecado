@@ -90,6 +90,12 @@ def init_db(db_path: Path = DB_PATH) -> None:
             ("el_dorado", "El Dorado", "https://www.eldorado.com.uy", "Montevideo"),
             ("el_clon", "El Clon", "https://www.elclon.com.uy", "Montevideo"),
             ("redmarket5", "RedMarket5", "https://redmarket5.com.uy", "Montevideo"),
+            ("5oceanos", "5 Océanos", "https://www.5oceanos.com.uy", "Montevideo"),
+            ("artico", "Artico Market", "https://www.tienda.artico.uy", "Montevideo"),
+            ("congelados_uy", "Congelados.com.uy", "https://congelados.com.uy", "Montevideo"),
+            ("marmatu", "Marmatu", "https://www.congeladosmarmatu.com.uy", "Montevideo"),
+            ("portisur", "Portisur", "https://www.portisur.com.uy", "Montevideo"),
+            ("glacial", "Glacial", "https://glacial.com.uy", "Montevideo"),
         ]
         conn.executemany(
             """
